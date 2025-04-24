@@ -1,1 +1,1 @@
-var sjlihilen = ['https://chat.whatsapp.com/DfOD9YlCNqw79cjjtiik9d','https://chat.whatsapp.com/Iy0fCkpdBdmIwQE3bWZvbc','https://chat.whatsapp.com/Cn5ko5PGgE8Dui4wteihC6']
+var sjlihilen = ['https://wa.me/14502895091','https://wa.me/14344531157']
